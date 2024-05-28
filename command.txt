@@ -44,3 +44,9 @@ saves the changes that you've made to the files in the staging area to the repos
 
 git status 
 displays the current status of your file/folder
+
+git log
+displays all the commits that were made
+
+git log --oneline
+condensed version of the git log
